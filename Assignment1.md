@@ -26,3 +26,21 @@ You can also embed plots, for example:
 ![](Assignment1_files/figure-html/unnamed-chunk-2-1.png) 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Bla bla bla I am just adding some stuff. Like I *totally* (astericks) rock, yes, _definitely_ (us). Here is a **double asterisk** and __double underscore__. I guess we shall see what happens....
+
+Now doing a **double asterisk and *single ones* in the middle**. 
+
+Let's see what markdown can do!
+
+1. bla 
+  1. more bla
+  2. school & stuff
+2. Yeah im so exciting
+  1. no way
+  2. I can definitely tell!
+
+* new type of list
+* let's see how it works
+  * asterisk, + (plus) let's indent a bit.....
+* back here again. 
